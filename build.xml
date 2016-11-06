@@ -172,6 +172,7 @@
             <sources dir="${basedir}">
                 <file name="src/resource.js"/>
                 <file name="src/app.js"/>
+                <file name="src/GameBackground.js"/>
                 <file name="main.js"/>
 
             </sources>
